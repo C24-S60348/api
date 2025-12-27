@@ -13,19 +13,23 @@
       "title": "Berita",
       "message": "Jom download aplikasi Hadis 40 Imam Nawawi!",
       "link": "https://play.google.com/store/apps/details?id=com.af1productions.hadis40&hl=ms",
-      "type": "news"
+      "type": "newsxx"
     },
     {
       "name": "ios",
+      "title": "Versi baharu tersedia!",
       "message": "Celik Tafsir Pro is available on the App Store!",
       "link": "https://apps.apple.com/my/app/celik-tafsir-pro/id6754980616",
-      "latest_version": "1.0.21"
+      "latest_version": "1.0.21",
+      "type": "update"
     },
     {
       "name": "web",
+      "title": "Versi baharu tersedia!",
       "message": "The new version of Celik Tafsir web app is available — please refresh this page to load it.",
       "link": "https://celiktafsir.web.app/",
-      "latest_version": "1.0.21"
+      "latest_version": "1.0.21",
+      "type": "update"
     }
   ]
 }
