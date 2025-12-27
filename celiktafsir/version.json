@@ -1,0 +1,11 @@
+{
+ "data" : [
+   {
+     "name":"android",
+     "message": "New android app available is playstore!",
+     "link": "https://play.google.com/store/apps/details?id=com.af1productions.celiktafsirv3",
+     "force_version":"1.0.3"
+   }
+     
+ ]
+}
